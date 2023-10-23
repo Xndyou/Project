@@ -47,7 +47,7 @@ if (!isset($_SESSION['username'])) {
                     <a class="nav-link text-black" aria-current="page" href="index.php">Data AC</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-black" aria-current="page" href="s_logout.php">Logout</a>
+                    <a class="nav-link text-black" aria-current="page" href="s_logout.php">Log out</a>
                 </li>
             </ul>
         </div>
